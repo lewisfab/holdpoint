@@ -7,8 +7,8 @@
 <br clear="left">
 
 > [!IMPORTANT]
-> **For Nikon riflescopes only.** Holdpoint's reticle data covers Nikon scope models (ProStaff, Buckmasters,
-> Monarch, Black and others, including discontinued ones). It does not include reticles from any other scope brand.
+> **For Nikon riflescopes only.** Nikon stopped making riflescopes in 2020; Holdpoint covers the reticles of their
+> scope models (ProStaff, Buckmasters, Monarch, Black and others). It does not include reticles from any other scope brand.
 > Holdpoint is not made or endorsed by Nikon.
 
 Pick your Nikon scope and load, set your zero, and Holdpoint draws your reticle with the distance each circle, dot or hash
