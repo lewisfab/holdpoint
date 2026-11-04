@@ -2,11 +2,16 @@
 
 # Holdpoint
 
-**Offline BDC reticle holds, bullet drop and wind for your riflescope (Android).**
+**Offline BDC reticle holds, bullet drop and wind for Nikon riflescopes (Android).**
 
 <br clear="left">
 
-Pick your scope and load, set your zero, and Holdpoint draws your reticle with the distance each circle, dot or hash
+> [!IMPORTANT]
+> **For Nikon riflescopes only.** Holdpoint's reticle data covers Nikon scope models (ProStaff, Buckmasters,
+> Monarch, Black and others, including discontinued ones). It does not include reticles from any other scope brand.
+> Holdpoint is not made or endorsed by Nikon.
+
+Pick your Nikon scope and load, set your zero, and Holdpoint draws your reticle with the distance each circle, dot or hash
 mark covers at your current magnification.
 
 - Reticle view with the distance for every aim point, at any magnification
@@ -43,8 +48,8 @@ fingerprint is:
 **Estimates only.** Rifles, ammo lots and conditions vary. Always confirm your zero and holds by shooting at known
 distances before relying on them, and follow safe firearm handling and the law where you hunt or shoot.
 
-**Not affiliated.** Holdpoint is an independent app. It is not made, endorsed or supported by any riflescope or
-ammunition maker. Product names are trademarks of their owners and are used only to identify compatible products.
+**Not affiliated.** Holdpoint is an independent app. It is not made, endorsed or supported by Nikon or any riflescope or
+ammunition maker. Nikon is a trademark of Nikon Corporation. Product names are trademarks of their owners and are used only to identify compatible products.
 
 ## Privacy
 
