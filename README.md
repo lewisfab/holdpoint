@@ -20,7 +20,7 @@ mark covers at your current magnification.
 - Ballistics table: path, elevation in clicks/MOA/mils, drift, velocity, energy, time of flight
 - Compare up to three loads on a trajectory graph
 - Field chart: every aim point at every power
-- About 2,400 factory loads from major ammunition makers, or enter your own (G1 or G7 BC)
+- About 3,100 factory loads from 18 ammunition makers, or enter your own (G1 or G7 BC)
 - Temperature, altitude, pressure, humidity and shot angle
 - Save a setup for each rifle
 - Works completely offline: no internet permission, no account, no ads, no data collected
