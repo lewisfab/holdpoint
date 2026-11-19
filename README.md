@@ -25,6 +25,20 @@ mark covers at your current magnification.
 - Save a setup for each rifle
 - Works completely offline: no internet permission, no account, no ads, no data collected
 
+## Screenshots
+
+<p>
+<img src="images/screenshot-1.png" width="200" alt="BDC reticle with the distance for each circle">
+<img src="images/screenshot-2.png" width="200" alt="Expanded BDC circles with top, center and bottom holds">
+<img src="images/screenshot-3.png" width="200" alt="Wind holds on the reticle">
+<img src="images/screenshot-4.png" width="200" alt="Ballistics table">
+</p>
+<p>
+<img src="images/screenshot-5.png" width="200" alt="Trajectory graph comparing three loads">
+<img src="images/screenshot-6.png" width="200" alt="Field chart for every magnification">
+<img src="images/screenshot-7.png" width="200" alt="Factory load makers">
+</p>
+
 ## Download
 
 Get the APK from the **[latest release](https://github.com/lewisfab/holdpoint/releases/latest)**.
